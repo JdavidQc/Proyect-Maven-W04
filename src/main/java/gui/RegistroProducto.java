@@ -293,7 +293,7 @@ private void limpiar() {
 			listaProducto();
 		}else {
 
-			JOptionPane.showMessageDialog(null,"Error al Agregar");
+			
 		}	
 
 	}
